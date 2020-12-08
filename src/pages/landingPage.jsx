@@ -14,7 +14,7 @@ function LandingPage() {
         <input
           className={classes.searchInput}
           placeholder="Enter a word..."
-          onChange={(e) => setSearchQuery(e.target.value.toString())}
+          onChange={(e) => setSearchQuery(String(e.target.value).toLowerCase())}
           onKeyPress={(e) =>
             e.key === "Enter" && validSearchQuery && handleSubmit()
           }
