@@ -1,4 +1,4 @@
-# Color A Word - [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://color-the-word.herokuapp.com/)]
+# Color A Word - [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://color-the-word.herokuapp.com/)
 
 ## Description
 
