@@ -1,0 +1,39 @@
+.root_control {
+  height: 75;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
+
+.root_cardList {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2vh 4vw;
+  justify-content: center;
+}
+
+.searchInput {
+  font-family: inherit;
+  border: 0;
+  border-bottom: 1px solid gray;
+  outline: 0;
+  font-size: 1rem;
+  color: grey;
+  margin-right: 10px;
+  padding: 2px;
+  background: transparent;
+}
+
+.searchButton {
+  font-family: inherit;
+  border: 0;
+  outline: 0;
+  color: black;
+  padding: 2px;
+  height: 25px;
+  width: 30px;
+  cursor: pointer;
+  background: lightgray;
+}
