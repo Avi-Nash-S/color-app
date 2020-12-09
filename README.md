@@ -6,11 +6,13 @@ Type in a Word to fetch color
 
 ## Word -> Color Correlation
 
-- Based on the characters typed in the input is compared with the available colors from the dataset, if the characters present then it fetches the color code of the respective colors renders in the UI.
+- LEGACY: Based on the characters typed in the input is compared with the available colors from the dataset, if the characters present then it fetches the color code of the respective colors renders in the UI.
 
-- Adding more color in dataset might improve the color correlation
+- LEGACY: Adding more color in dataset might improve the color correlation
 
-- Dynamic function in keyword comparison can also be implemented based the matching colors.
+- LEGACY: Dynamic function in keyword comparison can also be implemented based the matching colors.
+
+- Current Implementation is by fetching colors from colourlovers API, for more details click [here](https://www.colourlovers.com/api)
 
 ## Installation
 

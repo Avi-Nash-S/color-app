@@ -1,3 +1,5 @@
+// TODO: Remove if local Dataset not used
+
 import { colors, colorCodesMapper } from "../config";
 
 export const wordToColor = (color = "") => {
